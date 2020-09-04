@@ -1,0 +1,12 @@
+{
+  "name": "HabitTime",
+  "displayName": "HabitTime",
+  "expo": {
+    "name": "HabitTime",
+    "slug": "HabitTime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
